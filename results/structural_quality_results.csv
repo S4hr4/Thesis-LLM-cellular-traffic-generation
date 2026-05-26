@@ -1,0 +1,5 @@
+Strategy,Average Rows Returned,Missing Values,Duplicate Rows,Invalid Values,Format Errors
+Basic,460.0,0,0,0,0
+Constraint-Based,500.0,0,0,0,0
+Chain-of-Thought,418.0,0,0,0,0
+Few-Shot,497.3,0,0,0,0
